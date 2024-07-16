@@ -3259,3 +3259,4 @@ const singboxWgOutboundTemp = {
     detour: "",
     tag: ""
 };
+1
